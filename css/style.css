@@ -9,7 +9,7 @@ body {
 
 .container {
   text-align: center;
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }
 
 .header-section {
@@ -17,7 +17,7 @@ body {
 }
 
 .logo {
-  width: 50%;
+  width: 100%;
   max-width: 350px;
   display:block;
   margin:auto;
@@ -28,11 +28,11 @@ body {
   padding: 20px;
 }
 
-@media only screen and (max-width: 768px) {
+/*@media only screen and (max-width: 768px) {
     .logo {
       width: 80%;
     }
-}
+}*/
 
 .logo-image {
   max-width:100%;
