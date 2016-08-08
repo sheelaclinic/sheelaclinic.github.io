@@ -1,10 +1,11 @@
 body {
   font-family: "Avenir", Helvetica, Arial, "Lucida Grande", sans-serif;
-  background: url("../images/background.png") no-repeat center center fixed;;
+  background-color: #f4f4f5;
+  /*background: url("../images/background.png") no-repeat center center fixed;;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;
+  background-size: cover;*/
 }
 
 .container {
@@ -18,7 +19,7 @@ body {
 
 .logo {
   width: 100%;
-  max-width: 350px;
+  max-width: 380px;
   display:block;
   margin:auto;
   margin-top: 20px;
@@ -56,7 +57,7 @@ body {
   padding: 20px;
   margin: 0 auto;
   width: 100%;
-  max-width: 700px;
+  max-width: 900px;
   margin-top: 20px;
 }
 
